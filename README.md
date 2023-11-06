@@ -5,3 +5,6 @@ This research project will address these challenges by developing a machine lear
 The algorithm will be trained on a large dataset of MRI images, and it will be validated on a held-out dataset.<br>
 The algorithm will be evaluated based on its accuracy, efficiency, and interpretability. <br>
 The results of this research project will be used to improve the diagnosis and treatment of brain tumors, and ultimately improve the chances of survival for patients with brain tumors.<br>
+CONTRIBUTORS:<br>
+DHRUV CHHAJED 219301772
+BHAVYA SARRAF 219301609
